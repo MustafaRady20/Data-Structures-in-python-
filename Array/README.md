@@ -29,12 +29,23 @@ arrayName = array(typecode,[initializers])
 
 - Typecode are the codes that are used to define the type of value the array will hold. Some common typecodes used are as follows −
 
-Typecode  ||	Value
-b 	      ||    Represents signed integer of size 1 byte
-B 	      ||    Represents unsigned integer of size 1 byte
-c 	      ||    Represents character of size 1 byte
-i 	      ||    Represents signed integer of size 2 bytes
-I 	      ||    Represents unsigned integer of size 2 bytes
-f 	      ||    Represents floating point of size 4 bytes
-d 	      ||    Represents floating point of size 8 bytes
+
+
+
+Typecode  |	Value
+--------- | -------
+b 	      |    Represents signed integer of size 1 byte
+--------- | -------
+B 	      |    Represents unsigned integer of size 1 byte
+--------- | -------
+c 	      |    Represents character of size 1 byte
+--------- | -------
+i 	      |    Represents signed integer of size 2 bytes
+--------- | -------
+I 	      |    Represents unsigned integer of size 2 bytes
+--------- | -------
+f 	      |    Represents floating point of size 4 bytes
+--------- | -------
+d 	      |    Represents floating point of size 8 bytes
+--------- | -------
 
