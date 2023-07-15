@@ -33,6 +33,7 @@ arrayName = array(typecode,[initializers])
 
 
 Typecode  |	Value
+---     
 b 	      |    Represents signed integer of size 1 byte
 B 	      |    Represents unsigned integer of size 1 byte
 c 	      |    Represents character of size 1 byte
