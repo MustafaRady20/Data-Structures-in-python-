@@ -1,8 +1,7 @@
-# Data structures are fundamental concepts of computer science which help in writing efficient programs
-# in any programming language 
+# Data structures
+- data structures are fundamental concepts of computer science which help in writing efficient programs in any programming language 
 
-# python is a high-level, interpreted, interactive and object-oriented scripting language using which we can study
-# the fundamentals of data structure in a simpler way as compared to other programming languages.
+- python is a high-level, interpreted, interactive and object-oriented scripting language using which we can study the fundamentals of data structure in a simpler way as compared to other programming languages.
 
 
 # Data Strucutre types 
